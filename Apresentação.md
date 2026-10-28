@@ -17,7 +17,14 @@
 
 ### Participou e continua a participar em causas sociais como **Apoio a Jovens em Risco** que financia centros juvenis, escolas e instituições; **Combate á Fome Escolar**, relembrando as dificuldades que teve na sua infância, junto com a sua filha, deram mais de 700 mil dólares americanos para almoços escolares; **Apoio á População sem Abrigo** a que direcionou milhões de dólares dos lucros que conseguiu das suas digressões e direitos de autor para a construção de dezenas de casas e alojamentos de emergência.
 
-## **Pessoa, Cultura e Comunidade**
+## **Pessoa, Cultura e Comunidade, todos juntos num só**
 ### Como demonstrado anteriormente o hip-hop foi uma grande parte da sua adolescência e foi o que esculpiu o caminho que ele segue até os dias de hoje, ao mesmo tempo conseguindo moldar e influenciar a comunidade em que ele foi-se integrando ao longo do tempo, quebrando barreiras e mudando ideias.
 
-### 
+### Vivendo a infância nos bairros pobres de Detroit que era principalmente Afro-americana, ele procurou por aceitação e sentir que fazia parte da comunidade, o trauma socioeconómico provocou urgência e raiva que ele usa para se expressar nas suas músicas transformando o caos da sua vida numa métrica artistica e violenta ao mesmo tempo, Marshall Mathers é a pessoa por trás de tudo onde toda a dor, medos e traumas estão guardados usando os seus egos como o Slim Shady e o Eminem para se expressar ao mundo demonstrando pelo que passou.
+
+## **O Legado que deixou para trás**
+### Eminem fez o Hip-Hop explodir nos anos 2000 tornando-se o artista mais famoso da década, conquistou o respeito de pioneiros da comunidade provando que o Hip-Hop era algo que todos podiam apreciar e elevou a complexidade das rimas a um nível técnico que nunca se tinha visto antes.
+
+### Antes o rap era sobre força e crime mas Eminem mudou isso trazendo as suas fraquezas, ansiedades e depressão o que artistas pegam e usam, artistas como Juice WRLD, Lil Peep, Mac Miller e XXXTentacion, ele tambêm preveniu cultura tóxica e obssessiva dos fãs com a música "Stan" que entrou oficialmente para o dicionário de Oxford como a descrição de um fã obssessivo, o rapper tambêm tem três filhas, Hailie Jade Mathers que é a única filha biológica que ele tem, Alaina Marie Scott e Stevie Laine Mathers que foram ambas adotadas pelo cantor.
+
+### Para mim vale a pena ser estudado porque ele passou por dificuldades económicas, sociais e traumas familiares mas mesmo com o mundo todo contra ele conseguiu subir no mundo da música e nunca desistiu sempre a quebrar barreiras, a lutar pelo que achou correto para ele, para a família e para a sua comunidade, com tudo o que ele passou aprendesse que nunca se deve desistir dos sonhos e que se mostrarmos que damos tudo alguêm eventualmente vai notar e ajudarnos como o cantor Dr. Dre fez quando viu o trabalho do jovem Marshall no seu estúdio caseiro em 1997, Los Angeles.
