@@ -1,0 +1,4 @@
+## **A Comunidade em que se encontrava**
+### Através do Slim Shady usou o humor negro e a ultraviolência verbal para criticar a política, com duras críticas ao antigo presidente dos Estados Unidos, George W. Bush, a religião e a hipocrisia da classe média americana expondo os segredos, vícios e a violência doméstica demonstrando problemas sociais que não eram exclusivos da classe baixa.
+
+### Participou e continua a participar em causas sociais como **Apoio a Jovens em Risco** que financia centros juvenis, escolas e instituições; **Combate á Fome Escolar**, relembrando as dificuldades que teve na sua infância, junto com a sua filha, deram mais de 700 mil dólares americanos para almoços escolares; **Apoio á População sem Abrigo** a que direcionou milhões de dólares dos lucros que conseguiu das suas digressões e direitos de autor para a construção de dezenas de casas e alojamentos de emergência.

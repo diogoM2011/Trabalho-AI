@@ -1,0 +1,4 @@
+## **Pessoa, Cultura e Comunidade, todos juntos num só**
+### Como demonstrado anteriormente o hip-hop foi uma grande parte da sua adolescência e foi o que esculpiu o caminho que ele segue até os dias de hoje, ao mesmo tempo conseguindo moldar e influenciar a comunidade em que ele foi-se integrando ao longo do tempo, quebrando barreiras e mudando ideias.
+
+### Vivendo a infância nos bairros pobres de Detroit que era principalmente Afro-americana, ele procurou por aceitação e sentir que fazia parte da comunidade, o trauma socioeconómico provocou urgência e raiva que ele usa para se expressar nas suas músicas transformando o caos da sua vida numa métrica artistica e violenta ao mesmo tempo, Marshall Mathers é a pessoa por trás de tudo onde toda a dor, medos e traumas estão guardados usando os seus egos como o Slim Shady e o Eminem para se expressar ao mundo demonstrando pelo que passou.
