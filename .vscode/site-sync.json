@@ -1,0 +1,17 @@
+{
+  "baseUrl": "https://diogom2011.github.io",
+  "localRoot": "./site",
+  "startPath": "/Trabalho-AI/",
+  "settings": {
+    "liveReload": true,
+    "downloadCss": true,
+    "downloadJavaScript": true,
+    "downloadImages": true,
+    "downloadFonts": true,
+    "downloadJson": true,
+    "downloadOther": true,
+    "downloadHtml": true,
+    "prefetchReferenced": true,
+    "downloadExternal": true
+  }
+}

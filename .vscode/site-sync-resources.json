@@ -1,0 +1,226 @@
+{
+  "baseUrl": "https://diogom2011.github.io",
+  "localRoot": "./site",
+  "resources": {
+    "https://diogom2011.github.io/Trabalho-AI/": {
+      "url": "https://diogom2011.github.io/Trabalho-AI/",
+      "localPath": "Trabalho-AI/index.html",
+      "type": "html",
+      "external": false,
+      "remoteHash": "3e90147a59bce4cc1b9b481811b38e1d074b66c2d63d6e294aa0a025e21d2fe5",
+      "localHash": "3e90147a59bce4cc1b9b481811b38e1d074b66c2d63d6e294aa0a025e21d2fe5",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:36.414Z"
+    },
+    "https://diogom2011.github.io/Trabalho-AI/style.css": {
+      "url": "https://diogom2011.github.io/Trabalho-AI/style.css",
+      "localPath": "Trabalho-AI/style.css",
+      "type": "css",
+      "external": false,
+      "remoteHash": "7b6059e54ee2e06f5341c94fffe9c388e0c76cc3d3a2a29830e7432184986c72",
+      "localHash": "7b6059e54ee2e06f5341c94fffe9c388e0c76cc3d3a2a29830e7432184986c72",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:36.575Z"
+    },
+    "https://fonts.googleapis.com/css2": {
+      "url": "https://fonts.googleapis.com/css2",
+      "localPath": "external/fonts.googleapis.com/css2",
+      "type": "css",
+      "external": true,
+      "remoteHash": "150f671ccaaa31d31a5a1752bbbf8e10803ccbe0ed84ef57445c50d160d7fa51",
+      "localHash": "150f671ccaaa31d31a5a1752bbbf8e10803ccbe0ed84ef57445c50d160d7fa51",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:37.663Z"
+    },
+    "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lwz3bWuQ.woff2": {
+      "url": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lwz3bWuQ.woff2",
+      "localPath": "external/fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lwz3bWuQ.woff2",
+      "type": "font",
+      "external": true,
+      "remoteHash": "460f141ec8f6c9a1516bfd2bd9fe71656246d7a9d04a0955faf53158d8970c4c",
+      "localHash": "460f141ec8f6c9a1516bfd2bd9fe71656246d7a9d04a0955faf53158d8970c4c",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:37.795Z"
+    },
+    "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lwz3nWuZEC.woff2": {
+      "url": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lwz3nWuZEC.woff2",
+      "localPath": "external/fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lwz3nWuZEC.woff2",
+      "type": "font",
+      "external": true,
+      "remoteHash": "892fed0cfb3e65a5064277ed3f79f7098915587515b6c1e866cf8e79857bd8eb",
+      "localHash": "892fed0cfb3e65a5064277ed3f79f7098915587515b6c1e866cf8e79857bd8eb",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:37.796Z"
+    },
+    "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1z3bWuQ.woff2": {
+      "url": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1z3bWuQ.woff2",
+      "localPath": "external/fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1z3bWuQ.woff2",
+      "type": "font",
+      "external": true,
+      "remoteHash": "2515494e8cc2ca07c86ea78766cfa104b796aa6ed5d66821c01d51dbb0b52bce",
+      "localHash": "2515494e8cc2ca07c86ea78766cfa104b796aa6ed5d66821c01d51dbb0b52bce",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:37.934Z"
+    },
+    "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lwz3jWuZEC.woff2": {
+      "url": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lwz3jWuZEC.woff2",
+      "localPath": "external/fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lwz3jWuZEC.woff2",
+      "type": "font",
+      "external": true,
+      "remoteHash": "a6ff9214bfa7832cb91d246454fd48b10ef921e8af052d479fdf1f0ecb903504",
+      "localHash": "a6ff9214bfa7832cb91d246454fd48b10ef921e8af052d479fdf1f0ecb903504",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:38.117Z"
+    },
+    "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873z3jWuZEC.woff2": {
+      "url": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873z3jWuZEC.woff2",
+      "localPath": "external/fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873z3jWuZEC.woff2",
+      "type": "font",
+      "external": true,
+      "remoteHash": "aef7edf54f79a5329fbca9c065b56dcec3852c680d58cf89a9ef2db6940ca4b3",
+      "localHash": "aef7edf54f79a5329fbca9c065b56dcec3852c680d58cf89a9ef2db6940ca4b3",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:38.136Z"
+    },
+    "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2": {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
+      "type": "font",
+      "external": true,
+      "remoteHash": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62",
+      "localHash": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:38.195Z"
+    },
+    "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873z3bWuQ.woff2": {
+      "url": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873z3bWuQ.woff2",
+      "localPath": "external/fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873z3bWuQ.woff2",
+      "type": "font",
+      "external": true,
+      "remoteHash": "215a93c696f442034a46fbb382958f753fda60e30490683aeea6b235fcbb2b66",
+      "localHash": "215a93c696f442034a46fbb382958f753fda60e30490683aeea6b235fcbb2b66",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:38.366Z"
+    },
+    "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2z3jWuZEC.woff2": {
+      "url": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2z3jWuZEC.woff2",
+      "localPath": "external/fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2z3jWuZEC.woff2",
+      "type": "font",
+      "external": true,
+      "remoteHash": "9d351bd9222bfab90f943850f8039aa73cdb40e0a6cfe4127308a48bef59d5f5",
+      "localHash": "9d351bd9222bfab90f943850f8039aa73cdb40e0a6cfe4127308a48bef59d5f5",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:38.383Z"
+    },
+    "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2z3nWuZEC.woff2": {
+      "url": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2z3nWuZEC.woff2",
+      "localPath": "external/fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2z3nWuZEC.woff2",
+      "type": "font",
+      "external": true,
+      "remoteHash": "6c554f2decc277ef760244c5ee6b5a85840862966e2ad4d02a1bdcdfefb9afa2",
+      "localHash": "6c554f2decc277ef760244c5ee6b5a85840862966e2ad4d02a1bdcdfefb9afa2",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:38.451Z"
+    },
+    "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2z3bWuQ.woff2": {
+      "url": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2z3bWuQ.woff2",
+      "localPath": "external/fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2z3bWuQ.woff2",
+      "type": "font",
+      "external": true,
+      "remoteHash": "3787a5a419171630e6890cfa47c4da067474d005cd0ff8dc11ec090fdc3ee2b8",
+      "localHash": "3787a5a419171630e6890cfa47c4da067474d005cd0ff8dc11ec090fdc3ee2b8",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:38.502Z"
+    },
+    "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1z3nWuZEC.woff2": {
+      "url": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1z3nWuZEC.woff2",
+      "localPath": "external/fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1z3nWuZEC.woff2",
+      "type": "font",
+      "external": true,
+      "remoteHash": "87b35049bcb491c02a45d740cb88abd709e73cda023fbe5e28eefbff6649cdfe",
+      "localHash": "87b35049bcb491c02a45d740cb88abd709e73cda023fbe5e28eefbff6649cdfe",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:38.613Z"
+    },
+    "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873z3nWuZEC.woff2": {
+      "url": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873z3nWuZEC.woff2",
+      "localPath": "external/fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873z3nWuZEC.woff2",
+      "type": "font",
+      "external": true,
+      "remoteHash": "5598861e729ef9e8e40996cc1a4dddafa72df5981205cc929b900524e8c58890",
+      "localHash": "5598861e729ef9e8e40996cc1a4dddafa72df5981205cc929b900524e8c58890",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:38.751Z"
+    },
+    "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2": {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2",
+      "type": "font",
+      "external": true,
+      "remoteHash": "ca157063339ac4ad418f214f3abfed119b0798ab4d377386ce5c9e5a7a435ebd",
+      "localHash": "ca157063339ac4ad418f214f3abfed119b0798ab4d377386ce5c9e5a7a435ebd",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:38.826Z"
+    },
+    "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2": {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2",
+      "type": "font",
+      "external": true,
+      "remoteHash": "6e9e020a25f9b56d418f2c085b1d3c09725a4da23fe693a5b463064606732190",
+      "localHash": "6e9e020a25f9b56d418f2c085b1d3c09725a4da23fe693a5b463064606732190",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:38.890Z"
+    },
+    "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2": {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2",
+      "type": "font",
+      "external": true,
+      "remoteHash": "71d5ee93cc1e9f1d520a3a8b66456de18c7879d8df09d57fcd2eaff75fef0075",
+      "localHash": "71d5ee93cc1e9f1d520a3a8b66456de18c7879d8df09d57fcd2eaff75fef0075",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:38.921Z"
+    },
+    "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1z3jWuZEC.woff2": {
+      "url": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1z3jWuZEC.woff2",
+      "localPath": "external/fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1z3jWuZEC.woff2",
+      "type": "font",
+      "external": true,
+      "remoteHash": "22539b785b3cbcee08e0722ff37fa16a18e71e4482d9078f7da79da1258e7614",
+      "localHash": "22539b785b3cbcee08e0722ff37fa16a18e71e4482d9078f7da79da1258e7614",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:38.953Z"
+    },
+    "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2": {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2",
+      "type": "font",
+      "external": true,
+      "remoteHash": "1be3448e292fbf05ffe176fe1e43f135013d50b1e7d324ad1a558f623d3bb6f6",
+      "localHash": "1be3448e292fbf05ffe176fe1e43f135013d50b1e7d324ad1a558f623d3bb6f6",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:39.128Z"
+    },
+    "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2": {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2",
+      "type": "font",
+      "external": true,
+      "remoteHash": "5c66f9e07e90c6d4ac4922cc68d60de26c17b1858e677fb5e603fce3952b3ff2",
+      "localHash": "5c66f9e07e90c6d4ac4922cc68d60de26c17b1858e677fb5e603fce3952b3ff2",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:39.205Z"
+    },
+    "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2": {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2",
+      "localPath": "external/fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2",
+      "type": "font",
+      "external": true,
+      "remoteHash": "34b9c504cab7a73e37b746343a449132e56cf7b5481af2cb81dc74dcff25c956",
+      "localHash": "34b9c504cab7a73e37b746343a449132e56cf7b5481af2cb81dc74dcff25c956",
+      "modifiedLocally": false,
+      "downloadedAt": "2026-11-03T10:45:39.371Z"
+    }
+  }
+}
