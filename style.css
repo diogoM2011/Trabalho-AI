@@ -73,11 +73,62 @@ h2 { font-size: clamp(3.2rem, 7vw, 6.3rem); margin-bottom: 1.6rem; }
 .back-top { display: inline-block; border-bottom: 1px solid rgba(255,255,255,.65); padding-bottom: .25rem; font-size: .8rem; text-transform: uppercase; letter-spacing: .1em; }
 .influencia { max-width: 1000px; }
 .who { max-width: 1600px; }
-.lead2 { max-width: 1000px; font-size: clamp(1.1rem, 2vw, 1.45rem); line-height: 1.7; color: #41403c; }
+.lead2 { max-width: 1600px; font-size: clamp(1.1rem, 2vw, 1.45rem); line-height: 1.7; color: #41403c;}
+.leadMarshall { font-size: 23px; line-height: 1.7; }
+/* This is the outline for the Marshall part in the beggining, I think it looks good */
+.shadow1 { text-shadow:
+    -2px -2px 0 #2b2929,  
+     2px -2px 0 #2b2929,
+    -2px  2px 0 #2b2929,
+     2px  2px 0 #2b2929,
+    -2px  0px 0 #2b2929,
+     2px  0px 0 #2b2929,
+     0px -2px 0 #2b2929,
+     0px  2px 0 #2b2929; }
+/* This part was the outline for the Eminem part, I did not think it looked good so I commented it out */
+/*.shadow2 { text-shadow:
+    -2px -2px 0 #5f1919,  
+     2px -2px 0 #5f1919,
+    -2px  2px 0 #5f1919,
+     2px  2px 0 #5f1919,
+    -2px  0px 0 #5f1919,
+     2px  0px 0 #5f1919,
+     0px -2px 0 #5f1919,
+     0px  2px 0 #5f1919; }*/
+/* Supposed to be the outline for the Slim Shady part but it did not end up looking good so I commented it in case anyone wanted to change it */
+/*.shadow3 { text-shadow:
+    -2px -2px 0 #5c5c5c65,  
+     2px -2px 0 #5c5c5c65,
+    -2px  2px 0 #5c5c5c65,
+     2px  2px 0 #5c5c5c65,
+    -2px  0px 0 #5c5c5c65,
+     2px  0px 0 #5c5c5c65,
+     0px -2px 0 #5c5c5c65,
+     0px  2px 0 #5c5c5c65; }*/
 .Eminem { color: rgb(211, 19, 19); }
 .Slim { color: rgb(0, 0, 0); }
-.Marshall { color: rgb(66, 66, 66); }
+.Marshall { color: var(--paper); }
 .paragraph { max-width: 1600px; }
+.Explanation { max-width: 1500px; color: rgb(30, 30, 30); font-size: 20px; }
+.box { 
+  background-color: rgba(179, 179, 179, 0.863);
+  padding: 10px;
+  margin: 10px auto;
+  min-height: 100px;
+  text-align: center;
+  max-width: 1500px;
+  border-radius: 10px;
+}
+/* This was the outline for the Explanation part but I changed it to black so it was not needed anymore */
+/*.shadowbox { text-shadow:
+    -2px -2px 0 var(--ink),  
+     2px -2px 0 var(--ink),
+    -2px  2px 0 var(--ink),
+     2px  2px 0 var(--ink),
+    -2px  0px 0 var(--ink),
+     2px  0px 0 var(--ink),
+     0px -2px 0 var(--ink),
+     0px  2px 0 var(--ink); }*/
 footer { display: flex; justify-content: space-between; gap: 1rem; padding: 1.5rem clamp(1.25rem, 6vw, 6.5rem); background: #111; color: #aaa69f; font-size: .65rem; letter-spacing: .08em; }
 
 @media (max-width: 760px) {
