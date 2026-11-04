@@ -43,7 +43,7 @@ h2 { font-size: clamp(3.2rem, 7vw, 6.3rem); margin-bottom: 1.6rem; }
 .timeline span { font: 700 1.25rem var(--display); color: var(--red); }
 .timeline p { margin: 0; }
 .identities { background: #e6e1d7; }
-.section-intro { max-width: 690px; color: var(--muted); margin-bottom: 2.5rem; }
+.section-intro { max-width: 900px; color: var(--muted); margin-bottom: 2.5rem; }
 .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
 .card { min-height: 280px; padding: clamp(1.5rem, 3vw, 2.5rem); display: flex; flex-direction: column; }
 .card-number { font-size: .7rem; letter-spacing: .15em; opacity: .7; }
@@ -110,7 +110,7 @@ h2 { font-size: clamp(3.2rem, 7vw, 6.3rem); margin-bottom: 1.6rem; }
 .Marshall { color: var(--paper); }
 .paragraph { max-width: 1600px; }
 .Explanation { max-width: 1500px; color: rgb(30, 30, 30); font-size: 20px; }
-.box { 
+/* .box { 
   background-color: rgba(179, 179, 179, 0.863);
   padding: 10px;
   margin: 10px auto;
@@ -118,7 +118,7 @@ h2 { font-size: clamp(3.2rem, 7vw, 6.3rem); margin-bottom: 1.6rem; }
   text-align: center;
   max-width: 1500px;
   border-radius: 10px;
-}
+} */
 /* This was the outline for the Explanation part but I changed it to black so it was not needed anymore */
 /*.shadowbox { text-shadow:
     -2px -2px 0 var(--ink),  
@@ -130,7 +130,6 @@ h2 { font-size: clamp(3.2rem, 7vw, 6.3rem); margin-bottom: 1.6rem; }
      0px -2px 0 var(--ink),
      0px  2px 0 var(--ink); }*/
 
-/*.EP1 { display: flex; justify-content: flex-start; }*/
 .Photo1 { float: right; width: 350px; height: auto; margin: -550px -450px 20px 25px; }
 .Photo1 img { width: 550px; height: auto; }
 .Photo1 h1 { white-space: nowrap; }
