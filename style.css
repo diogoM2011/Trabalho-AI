@@ -129,6 +129,16 @@ h2 { font-size: clamp(3.2rem, 7vw, 6.3rem); margin-bottom: 1.6rem; }
      2px  0px 0 var(--ink),
      0px -2px 0 var(--ink),
      0px  2px 0 var(--ink); }*/
+
+/*.EP1 { display: flex; justify-content: flex-start; }*/
+.Photo1 { float: right; width: 350px; height: auto; margin: -550px -450px 20px 25px; }
+.Photo1 img { width: 550px; height: auto; }
+.Photo1 h1 { white-space: nowrap; }
+
+.Photo2 { float: right; width: 350px; height: auto; margin: 0 -250px 20px 25px; }
+.Photo2 img { width: 550px; height: auto; flex-shrink: 0; }
+.Photo2 h2 { white-space: nowrap; }
+
 footer { display: flex; justify-content: space-between; gap: 1rem; padding: 1.5rem clamp(1.25rem, 6vw, 6.5rem); background: #111; color: #aaa69f; font-size: .65rem; letter-spacing: .08em; }
 
 @media (max-width: 760px) {
