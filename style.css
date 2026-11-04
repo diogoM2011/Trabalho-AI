@@ -36,7 +36,7 @@ h1 span { color: var(--red); }
 h2 { font-size: clamp(3.2rem, 7vw, 6.3rem); margin-bottom: 1.6rem; }
 .lead { max-width: 800px; font-size: clamp(1.1rem, 2vw, 1.45rem); line-height: 1.7; color: #41403c; }
 .bio-grid { display: grid; grid-template-columns: minmax(220px, .8fr) minmax(0, 1.2fr); gap: clamp(2rem, 7vw, 7rem); border-top: 1px solid var(--line); }
-.copy { max-width: 720px; color: #494843; }
+.copy { max-width: none; color: #494843; }
 .copy p { margin-bottom: 1.3rem; }
 .timeline { margin-top: 2.5rem; border-top: 1px solid var(--line); }
 .timeline > div { display: grid; grid-template-columns: 105px 1fr; gap: 1rem; padding: 1.15rem 0; border-bottom: 1px solid var(--line); }
@@ -77,6 +77,7 @@ h2 { font-size: clamp(3.2rem, 7vw, 6.3rem); margin-bottom: 1.6rem; }
 .Eminem { color: rgb(211, 19, 19); }
 .Slim { color: rgb(0, 0, 0); }
 .Marshall { color: rgb(66, 66, 66); }
+.paragraph { max-width: 1600px; }
 footer { display: flex; justify-content: space-between; gap: 1rem; padding: 1.5rem clamp(1.25rem, 6vw, 6.5rem); background: #111; color: #aaa69f; font-size: .65rem; letter-spacing: .08em; }
 
 @media (max-width: 760px) {
