@@ -149,6 +149,10 @@ h2 { font-size: clamp(3.2rem, 7vw, 6.3rem); margin-bottom: 1.6rem; }
 .Photo3 img { width: 550px; height: auto; flex-shrink: 0; }
 .Photo3 h2 { white-space: nowrap; }
 
+.Photo4 { float: right; width: 350px; height: auto; margin: -300px 500px 0px 100px; white-space: nowrap; }
+.Photo4 img { width: 250px; height: 150px; object-fit: cover;}
+.clear { clear: both; }
+
 footer { display: flex; justify-content: space-between; gap: 1rem; padding: 1.5rem clamp(1.25rem, 6vw, 6.5rem); background: #111; color: #aaa69f; font-size: .65rem; letter-spacing: .08em; }
 
 @media (max-width: 760px) {
