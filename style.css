@@ -40,7 +40,8 @@ h2 { font-size: clamp(3.2rem, 7vw, 6.3rem); margin-bottom: 1.6rem; }
 .copy p { margin-bottom: 1.3rem; }
 .timeline { margin-top: 2.5rem; border-top: 1px solid var(--line); }
 .timeline > div { display: grid; grid-template-columns: 105px 1fr; gap: 1rem; padding: 1.15rem 0; border-bottom: 1px solid var(--line); }
-.timeline span { font: 700 1.25rem var(--display); color: var(--red); }
+.timeline > div > span { font: 700 1.25rem var(--display); color: var(--red); }
+.timeline p span { color: var(--ink); }
 .timeline p { margin: 0; }
 .identities { background: #e6e1d7; }
 .section-intro { max-width: 900px; color: var(--muted); margin-bottom: 2.5rem; }

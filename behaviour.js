@@ -1,21 +1,38 @@
-const LoseYourself = document.getElementById("LoseYourself")
-var music = document.getElementById("LoseYourselfMusic")
+function SetupSongs(SongID, MusicID) {
 
-LoseYourself.addEventListener("mouseenter", function() {
-    music.play();
-    LoseYourself.style.color = "red";
-});
+    const song = document.getElementById(SongID);
+    var music = document.getElementById(MusicID);
 
-LoseYourself.addEventListener("mouseleave", function(){
-    music.pause();
-    music.currentTime = 0;
-    LoseYourself.style.color = "";
-});
+    song.addEventListener("mouseover", function(){
+        music.play()
 
-music.addEventListener("canplay", function(){
-    console.log("Audio Loaded")
-});
+        song.style.color = "red";
+        song.style.textTransform = "uppercase";
+        song.style.fontWeight = "bold";
+        song.style.fontFamily = "Barlow Condensed";
+        song.style.fontSize = "30px";
+    });
 
-music.addEventListener("error", function(){
-    console.log("Audio was not loaded and gave an error")
-});
+    song.addEventListener("mouseleave", function(){
+        music.pause();
+        music.currentTime = 0;
+
+        song.style.color = "";
+        song.style.textTransform = "";
+        song.style.fontWeight = "";
+        song.style.fontFamily = "";
+        song.style.fontSize = "";
+    });
+}
+
+SetupSongs("LoseYourself", "LoseYourselfMusic")
+SetupSongs("Lucifer", "LuciferMusic")
+SetupSongs("Mockingbird", "MockingbirdMusic")
+SetupSongs("Mosh", "MoshMusic")
+SetupSongs("RockBottom", "RockBottomMusic")
+SetupSongs("RapGod", "RapGodMusic")
+SetupSongs("RapGodT", "RapGodMusic")
+SetupSongs("SquareDance", "SquareDanceMusic")
+SetupSongs("TheRealSlimShady", "TheRealSlimShadyMusic")
+SetupSongs("WeAsAmericans", "WeAsAmericansMusic")
+SetupSongs("WithoutMe", "WithoutMeMusic")
