@@ -150,8 +150,25 @@ h2 { font-size: clamp(3.2rem, 7vw, 6.3rem); margin-bottom: 1.6rem; }
 .Photo3 img { width: 550px; height: auto; flex-shrink: 0; }
 .Photo3 h2 { white-space: nowrap; }
 
-.Photo4 { float: right; width: 350px; height: auto; margin: -300px 500px 0px 100px; white-space: nowrap; }
-.Photo4 img { width: 250px; height: 150px; object-fit: cover;}
+.Photo4 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+
+    width: 100%;
+    max-width: 100%;
+
+    margin: 2rem 0;
+}
+
+.Photo4 img {
+    width: 25%;
+    min-width: 0;
+    height: auto;
+    aspect-ratio: 5 / 3;
+    object-fit: cover;
+}
+
 .clear { clear: both; }
 
 .Photo5 { float: right; width: 350px; height: auto; margin: clamp(3rem, 5vw, 9rem) clamp(3rem, 6vw, 12rem) 0px 100px; white-space: nowrap; }
